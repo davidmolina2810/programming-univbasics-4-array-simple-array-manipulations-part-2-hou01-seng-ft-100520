@@ -10,13 +10,13 @@ def using_insert(array, element)
     array.insert(4, element)
   end
 
-#1. array arg 
+#1. array arg
 #2. array.uniq to get rid of duplicates
 def using_uniq(arr)
   arr.uniq
 end
 
-#1. array arg 
+#1. array arg
 #2. array.flatten to return array of strings
 def using_flatten(arr)
   arr.flatten
