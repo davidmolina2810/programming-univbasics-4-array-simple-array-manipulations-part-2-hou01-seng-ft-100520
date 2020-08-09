@@ -11,4 +11,3 @@ def using_concat(array1, array2)
     index += 1
   end
 end
-
