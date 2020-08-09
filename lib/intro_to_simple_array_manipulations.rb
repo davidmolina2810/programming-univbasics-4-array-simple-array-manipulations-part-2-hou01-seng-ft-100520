@@ -5,7 +5,7 @@
   #5. counter += 1
 #6 return array1
 def using_concat(array1, array2)
-  index = 0 
+  index = 0
   while index < array2.length do
     array1.push(array2[index])
   end
