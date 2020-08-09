@@ -10,7 +10,7 @@ def using_insert(array, element)
     array.insert(4, element)
   end
 
-#1. Get array 
+#1. Get array
 #2. array.uniq to get rid of duplicates
 def using_uniq(arr)
   arr.uniq
