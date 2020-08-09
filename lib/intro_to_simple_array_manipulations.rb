@@ -8,4 +8,7 @@ def using_concat(array1, array2)
   index = 0
   while index < array2.length do
     array1.push(array2[index])
+    index += 1
   end
+end
+
