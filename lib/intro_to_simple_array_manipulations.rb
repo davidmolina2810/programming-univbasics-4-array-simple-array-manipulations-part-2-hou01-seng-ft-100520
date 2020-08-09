@@ -27,3 +27,9 @@ end
 def using_delete(arr, str)
   arr.delete(str)
 end
+
+#1. array arg and index arg
+#2. arr.delete_at(index)
+def using_delete_at(arr, index)
+  arr.delete_at(index)
+end
