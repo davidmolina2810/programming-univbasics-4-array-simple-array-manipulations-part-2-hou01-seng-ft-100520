@@ -21,3 +21,9 @@ end
 def using_flatten(arr)
   arr.flatten
 end
+
+#1. Array arg and string arg
+#2. array.delete(string)
+def using_delete(arr, str)
+  arr.delete(str)
+end
